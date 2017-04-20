@@ -4,3 +4,7 @@ function aa(){
 	echo "ccc"
 }
 
+echo 1;
+echo 4;
+
+
